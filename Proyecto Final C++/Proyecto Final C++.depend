@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1712109460 source:c:\users\favian\documents\proyecto final c++\src\almacen.cpp
+	"almacen.h"
+	<iostream>
+	<vector>
+	<string>
+
+1712109460 c:\users\favian\documents\proyecto final c++\include\almacen.h
+	<vector>
+	"tablon.h"
+	<string>
+
+1712110088 c:\users\favian\documents\proyecto final c++\include\tablon.h
+	<string>
+
+1712110356 source:c:\users\favian\documents\proyecto final c++\src\tablon.cpp
+	"tablon.h"
+	<iostream>
+	<string>
+
+1712109350 source:c:\users\favian\documents\proyecto final c++\src\tablondecorativo.cpp
+	"tablondecorativo.h"
+	<string>
+
+1712109350 c:\users\favian\documents\proyecto final c++\include\tablondecorativo.h
+	<string>
+	"tablon.h"
+
+1712109350 source:c:\users\favian\documents\proyecto final c++\src\tablonencofrado.cpp
+	"tablonencofrado.h"
+	<string>
+
+1712109350 c:\users\favian\documents\proyecto final c++\include\tablonencofrado.h
+	<string>
+	"tablon.h"
+
+1712109460 source:c:\users\favian\documents\proyecto final c++\src\tablonmuebles.cpp
+	"tablonmuebles.h"
+	<string>
+
+1712109350 c:\users\favian\documents\proyecto final c++\include\tablonmuebles.h
+	<string>
+	"tablon.h"
+
+1712110721 source:c:\users\favian\documents\proyecto final c++\main.cpp
+	<iostream>
+	<string>
+	"tablonmuebles.h"
+	"tablondecorativo.h"
+	"tablonencofrado.h"
+	"almacen.h"
+	<ctime>
+
